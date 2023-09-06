@@ -19,7 +19,7 @@ $$
 \mathbf{T}(\mathcal{N}) = \mathcal{N}^{-\frac{1}{2}}
 $$
 
-3. **Energetic Consistency Vector, $ \mathbf{E} $:** Defining how energy conservation principles modulate, it's derived from the determinant of the nested depth tensor:
+3. **Energetic Consistency Vector, $\mathbf{E}$:** Defining how energy conservation principles modulate, it's derived from the determinant of the nested depth tensor:
 
 $$
 \mathbf{E} = \text{det}(\mathcal{N}) e^{-\mathcal{N}}
