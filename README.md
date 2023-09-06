@@ -37,7 +37,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Dive into "Pseudo" and become a part of a unique, boundary-pushing adventure that might just redefine your understanding of existence. A journey where artificial intelligence becomes the lens through which to explore the profound and the absurd alike. 
+Dive into "psudo" and become a part of a unique, boundary-pushing adventure that might just redefine your understanding of existence. A journey where artificial intelligence becomes the lens through which to explore the profound and the absurd alike. 
 
 Let the pseudo-quest begin and the great perhaps that is existence unfold.
 
